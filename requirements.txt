@@ -1,0 +1,16 @@
+attrs==19.3.0
+importlib-metadata==0.23
+mock==3.0.5
+more-itertools==7.2.0
+numpy==1.17.4
+opencv-python==4.1.2.30
+packaging==19.2
+pluggy==0.13.1
+py==1.8.0
+pyparsing==2.4.5
+pytest==5.3.0
+selenium==3.141.0
+six==1.13.0
+urllib3==1.25.7
+wcwidth==0.1.7
+zipp==0.6.0
