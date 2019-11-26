@@ -9,7 +9,7 @@ Semi Automated program which takes a user provided list of names, finds images, 
 `pip install -r requirements.txt`
 
 ## Test
-`pytest` or `pytest --verbose`
+`python tests/AppTestSuite.py`
 
 ## End to End Test with Sample File
 `python remove-image-background tests/sample.json`
