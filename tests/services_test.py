@@ -17,7 +17,6 @@ from unittest.mock import patch
 
 class ServicesTest(unittest.TestCase):
 
-
     @classmethod
     def setUpClass(inst):
 # testing the initial values
