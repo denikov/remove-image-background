@@ -9,6 +9,6 @@ setup(
     author_email='ikovlevd@gmail.com',
     license='MIT',
     keywords='python opencv selenium opencv-python python3',
-    python_requires='>=3.6',
+    python_requires='>=3.4',
     packages=['remove-image-background']
 )
