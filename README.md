@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/denikov/remove-image-background.svg?branch=master)](https://travis-ci.org/denikov/remove-image-background)
+
 # remove-image-background
 Semi Automated program which takes a user provided list of names, finds images, removes the background, crops and saves the resulting images, creating a transparent profile image.
 
